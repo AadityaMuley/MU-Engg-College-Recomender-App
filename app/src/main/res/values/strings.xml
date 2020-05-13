@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Infinity</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="preference">Android spinner</string>
+    <string-array name="branch">
+        <item>Computer Engineering</item>
+        <item>Information Technology</item>
+        <item>EXTC</item>
+        <item>Mechanical Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Biotechnology Engineering</item>
+        <item>Mechatronics Engineering</item>
+        <item>Chemical Engineering</item>
+        <item>Others</item>
+
+    </string-array>
+
+</resources>
